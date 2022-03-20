@@ -2,7 +2,7 @@
 
 The purpose of this program is to calculate the shortest possible path for the chess piece, knight, to get from one spot to another spot on the board.
 
-To accomplish this, I did a breath first search through every possible move.
+To accomplish this, I did a breadth first search through every possible move.
 
 ## In the breath first search I:
 
